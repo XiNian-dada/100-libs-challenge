@@ -1,6 +1,6 @@
 # 💯 GitHub 100 Libraries Challenge
 
-![Progress](https://img.shields.io/badge/Progress-33%2F100-orange?style=for-the-badge&logo=github)
+![Progress](https://img.shields.io/badge/Progress-35%2F100-orange?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ## 🎯 挑战目标 (The Goal)
@@ -39,6 +39,7 @@
 | 24| [MCiGPT](https://github.com/XiNian-dada/MCiGPT) | **`PyTorch`, `Transformers`** | AI Model | 基于 MaskGit & BERT 的 Minecraft 文生图模型。 | - |
 | 25| [Advanced-SCU_course_catcher](https://github.com/XiNian-dada/Advanced-SCU_course_catcher) | `Requests`, `BeautifulSoup`? | Script | SCU 抢课脚本。 | Private |
 | 31| [EzTDL](https://github.com/XiNian-dada/EzTDL) | `Tkinter`, `TDL` | Tool | 可视化 TDL 任务管理工具。 | - |
+| 35| [EzXDownloader](https://github.com/XiNian-dada/EzXDownloader) | `Tkinter` | Tool | 可视化 X 视频下载工具。 | - |
 
 ### 🐘 PHP (Web & Blog Dev)
 *个人站长：Typecho 插件开发、Hexo 迁移工具链。*
