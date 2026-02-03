@@ -1,6 +1,6 @@
 # 💯 GitHub 100 Libraries Challenge
 
-![Progress](https://img.shields.io/badge/Progress-35%2F100-orange?style=for-the-badge&logo=github)
+![Progress](https://img.shields.io/badge/Progress-36%2F100-orange?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ## 🎯 挑战目标 (The Goal)
@@ -30,6 +30,7 @@
 | 14| [XiFart](https://github.com/XiNian-dada/XiFart) | `Sound API` / `Particles` | Plugin | 放屁插件 (联动 XiDiarrhoea)。 | Private |
 | 15| [KlpbbsAutoSignIn](https://github.com/XiNian-dada/KlpbbsAutoSignIn) | `HttpURLConnection` | Software | Post实现的论坛签到脚本。 | Private |
 | 32| [XiBackpack](https://github.com/XiNian-dada/XiBackpack) | `SQLite` / `Base64` | Plugin | 云背包插件。 | - |
+| 36| [XiMultiLogin](https://github.com/XiNian-dada/XiMultiLogin) | `SQLite` / `MySQL` | Plugin | 混合登陆。 | - |
 
 ### 🐍 Python (AI & Data Science)
 *未来方向：AI4Science、SNN (脉冲神经网络)、生物计算。*
@@ -73,7 +74,7 @@
 ---
 
 ## 📈 进度概览
-- [ ] Java/Spigot (14/35)
+- [ ] Java/Spigot (15/35)
 - [ ] Python (4/30)
 - [ ] PHP (11/15)
 - [ ] Misc (6/20)
