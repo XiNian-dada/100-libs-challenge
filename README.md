@@ -1,6 +1,6 @@
 # 💯 GitHub 100 Libraries Challenge
 
-![Progress](https://img.shields.io/badge/Progress-38%2F100-orange?style=for-the-badge&logo=github)
+![Progress](https://img.shields.io/badge/Progress-39%2F100-orange?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ## 🎯 挑战目标 (The Goal)
@@ -72,6 +72,7 @@
 | 23| [C-Study](https://github.com/XiNian-dada/C-Study) | `GCC`, `Make` | Study | C/C++ 语言学习记录。 | - |
 | 28| [Wheres_my_mouse](https://github.com/XiNian-dada/Wheres_my_mouse) | `Windows API` | Tool | C语言实现的鼠标定位工具。 | - |
 | 34| [Pure-C-Neural-Net](https://github.com/XiNian-dada/Pure-C-Neural-Net) | `GCC`, `Make` | Study | C语言实现的MNIST。 | - |
+| 39| [ACASB](https://github.com/XiNian-dada/ACASB) | `PyTorch`,`FastAPI`,`SpringBoot`| Competition | 古代建筑分析   ｜ - ｜
 
 ---
 
@@ -79,4 +80,4 @@
 - [ ] Java/Spigot (17/35)
 - [ ] Python (4/30)
 - [ ] PHP (11/15)
-- [ ] Misc (6/20)
+- [ ] Misc (7/20)
