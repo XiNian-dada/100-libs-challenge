@@ -73,6 +73,7 @@
 | 28| [Wheres_my_mouse](https://github.com/XiNian-dada/Wheres_my_mouse) | `Windows API` | Tool | C语言实现的鼠标定位工具。 | - |
 | 34| [Pure-C-Neural-Net](https://github.com/XiNian-dada/Pure-C-Neural-Net) | `GCC`, `Make` | Study | C语言实现的MNIST。 | - |
 | 39| [ACASB](https://github.com/XiNian-dada/ACASB) | `PyTorch`,`FastAPI`,`SpringBoot`| Competition | 古代建筑分析   ｜ - ｜
+| 40| [imgd](https://github.com/XiNian-dada/imgd | `Rust` | Tool | 基于 Rust 的图床程序 | - | 
 
 ---
 
