@@ -1,6 +1,6 @@
 # 💯 GitHub 100 Libraries Challenge
 
-![Progress](https://img.shields.io/badge/Progress-39%2F100-orange?style=for-the-badge&logo=github)
+![Progress](https://img.shields.io/badge/Progress-41%2F100-orange?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ## 🎯 挑战目标 (The Goal)
@@ -74,6 +74,7 @@
 | 34| [Pure-C-Neural-Net](https://github.com/XiNian-dada/Pure-C-Neural-Net) | `GCC`, `Make` | Study | C语言实现的MNIST。 | - |
 | 39| [ACASB](https://github.com/XiNian-dada/ACASB) | `PyTorch`,`FastAPI`,`SpringBoot`| Competition | 古代建筑分析   ｜ - ｜
 | 40| [imgd](https://github.com/XiNian-dada/imgd | `Rust` | Tool | 基于 Rust 的图床程序 | - | 
+| 41| [SlimGPT](https://github.com/XiNian-dada/SlimeGPT) | `JavaScript` | Plugin | GPT 对话优化 | - |
 
 ---
 
@@ -81,4 +82,4 @@
 - [ ] Java/Spigot (17/35)
 - [ ] Python (4/30)
 - [ ] PHP (11/15)
-- [ ] Misc (7/20)
+- [ ] Misc (9/20)
