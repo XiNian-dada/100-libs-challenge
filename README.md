@@ -1,6 +1,6 @@
 # 💯 GitHub 100 Libraries Challenge
 
-![Progress](https://img.shields.io/badge/Progress-41%2F100-orange?style=for-the-badge&logo=github)
+![Progress](https://img.shields.io/badge/Progress-45%2F100-orange?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ## 🎯 挑战目标 (The Goal)
@@ -33,7 +33,7 @@
 | 36| [XiMultiLogin](https://github.com/XiNian-dada/XiMultiLogin) | `SQLite` / `MySQL` | Plugin | 混合登陆。 | - |
 | 37| [XiMonitor] | `EventLinstenr` | Plugin | 服务器性能监控 | 筹备中|
 | 38| [XiSchedule] | `BukkitRunnable` | Plugin | 多合一定时任务| 筹备中|
-| 44| [MiniGPT] | `Java` | AI | Java 复现Transformer| - |
+| 44| [MiniGPT](https://github.com/XiNian-dada/MiniGPT) | `Java` | AI | Java 复现Transformer| - |
 
 ### 🐍 Python (AI & Data Science)
 *未来方向：AI4Science、SNN (脉冲神经网络)、生物计算。*
