@@ -33,6 +33,7 @@
 | 36| [XiMultiLogin](https://github.com/XiNian-dada/XiMultiLogin) | `SQLite` / `MySQL` | Plugin | 混合登陆。 | - |
 | 37| [XiMonitor] | `EventLinstenr` | Plugin | 服务器性能监控 | 筹备中|
 | 38| [XiSchedule] | `BukkitRunnable` | Plugin | 多合一定时任务| 筹备中|
+| 44| [MiniGPT] | `Java` | AI | Java 复现Transformer| - |
 
 ### 🐍 Python (AI & Data Science)
 *未来方向：AI4Science、SNN (脉冲神经网络)、生物计算。*
@@ -60,6 +61,7 @@
 | 29| [XiSitemap](https://github.com/XiNian-dada/XiSitemap) | `XMLWriter` | Typecho | Sitemap.xml 生成插件。 | - |
 | 30| [Vergissmeinnicht](https://github.com/XiNian-dada/Vergissmeinnicht)| `CSS`, `PJAX` | Theme | Typecho 主题 (勿忘我)。 | - |
 | 33| [UEditorPlus-for-Typecho](https://github.com/XiNian-dada/UEditorPlus-for-Typecho)| `UEditorPlus` | Typecho | 基于 UEditorPlus 的富文本编辑器。 | - |
+| 43| [Vditor4Typecho](https://github.com/XiNian-dada/Vditor4Typecho)| `Vditor` | Typecho | 基于 Vditor 的 Markdown 编辑器。 | - |
 
 ### 🛠️ Miscellaneous (Rust, C++, Tools)
 *杂项百宝箱：系统级编程、效率工具以及学校课程相关（C/C++）。*
@@ -75,11 +77,13 @@
 | 39| [ACASB](https://github.com/XiNian-dada/ACASB) | `PyTorch`,`FastAPI`,`SpringBoot`| Competition | 古代建筑分析   ｜ - ｜
 | 40| [imgd](https://github.com/XiNian-dada/imgd | `Rust` | Tool | 基于 Rust 的图床程序 | - | 
 | 41| [SlimGPT](https://github.com/XiNian-dada/SlimeGPT) | `JavaScript` | Plugin | GPT 对话优化 | - |
+| 42| [rcrontab](https://github.com/XiNian-dada/rcrontab) | `Rust` | Tool | 基于Rust的支持webhook与SMTP的定时任务系统 | - |
+| 45| [Tictactoe-L432K](https://github.com/XiNian-dada/Tictactoe-L432K) | `C++` | Mbed | 基于意法L432K的井字棋游戏 | - |
 
 ---
 
 ## 📈 进度概览
-- [ ] Java/Spigot (17/35)
+- [ ] Java/Spigot (18/35)
 - [ ] Python (4/30)
-- [ ] PHP (11/15)
-- [ ] Misc (9/20)
+- [ ] PHP (12/15)
+- [ ] Misc (11/20)
