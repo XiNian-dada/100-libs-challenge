@@ -27,8 +27,8 @@
 | 41 | [SlimGPT](https://github.com/XiNian-dada/SlimGPT) | `JavaScript` | Plugin | GPT 对话体验优化扩展。 | - |
 | 42 | [rcrontab](https://github.com/XiNian-dada/rcrontab) | `Rust` | Tool | 基于 Rust 的支持 Webhook 与 SMTP 的定时任务系统。 | - |
 | 45 | [Tictactoe-L432K](https://github.com/XiNian-dada/Tictactoe-L432K) | `C++`, `Mbed` | Embedded | 基于意法 STM32 L432KC 的井字棋游戏。 | - |
-| 46 | [Fuck_My_Shit_Mountain](https://github.com/XiNian-dada/Fuck_My_Shit_Mountain) | `Prompt`, `HTML`, `Skill` | AI Skill | 证据驱动的 AI 代码审计技能与报告模板（505 Stars）。 | - |
-| 47 | [NodeLite](https://github.com/XiNian-dada/NodeLite) | `Rust`, `WebSocket`, `SQLite` | Monitoring | 极轻量级高性能服务器集群监控面板与 Agent 系统（61 Stars）。 | - |
+| 46 | [Fuck_My_Shit_Mountain](https://github.com/XiNian-dada/Fuck_My_Shit_Mountain) | `Prompt`, `HTML`, `Skill` | AI Skill | 证据驱动的 AI 代码审计技能与报告模板。 ![](https://img.shields.io/github/stars/XiNian-dada/Fuck_My_Shit_Mountain?style=flat-square) | - |
+| 47 | [NodeLite](https://github.com/XiNian-dada/NodeLite) | `Rust`, `WebSocket`, `SQLite` | Monitoring | 极轻量级高性能服务器集群监控面板与 Agent 系统。 ![](https://img.shields.io/github/stars/XiNian-dada/NodeLite?style=flat-square) | - |
 | 48 | [PPTskills](https://github.com/XiNian-dada/PPTskills) | `Playwright`, `PPTX`, `Schema JSON` | AI Skill | 面向 Codex 的可编辑 PPTX 生成 Skill。 | - |
 | 49 | [SmartSync](https://github.com/XiNian-dada/SmartSync) | `Sync`, `Tooling` | Tool | 智能同步工具。 | - |
 | 50 | [XzBot](https://github.com/XiNian-dada/XzBot) | `Rust`, `Tokio`, `Axum`, `OneBot` | Bot | 支持多 LLM 后端与工具调用的 QQ 聊天机器人。 | - |
@@ -39,7 +39,7 @@
 | 59 | [FireFly-RK3399-Housing-Model](https://github.com/XiNian-dada/FireFly-RK3399-Housing-Model) | `3D CAD`, `STL` | Hardware | 萤火虫 RK3399PLUS 嵌入式开发板定制 3D 打印外壳模型。 | - |
 | 60 | [WG-Tunnel-Manager](https://github.com/XiNian-dada/WG-Tunnel-Manager) | `Bash`, `WireGuard` | Tool | 基于 TUI 的 WireGuard TCP 隧道配置与管理工具。 | - |
 | 61 | [luci-app-wloc](https://github.com/XiNian-dada/luci-app-wloc) | `Go`, `OpenWrt`, `LuCI`, `nftables` | Embedded | OpenWrt 固件 WLOC 定位重写插件（支持 Wi-Fi Calling）。 | - |
-| 62 | [VanishMe](https://github.com/XiNian-dada/VanishMe) | `TypeScript`, `Canvas`, `WebGL` | Extension | 浏览器指纹伪装与隐私防护扩展（110 Stars）。 | - |
+| 62 | [VanishMe](https://github.com/XiNian-dada/VanishMe) | `TypeScript`, `Canvas`, `WebGL` | Extension | 浏览器指纹伪装与隐私防护扩展。 ![](https://img.shields.io/github/stars/XiNian-dada/VanishMe?style=flat-square) | - |
 | 63 | [WingmanKVM](https://github.com/XiNian-dada/WingmanKVM) | `Rust`, `V4L2`, `USB-Gadget`, `GPIO` | Embedded | 软硬协同网页 KVM：HDMI 采集卡、USB OTG 键鼠模拟与电源控制。 | - |
 | 65 | [OpenCodeBridge](https://github.com/XiNian-dada/OpenCodeBridge) | `TypeScript`, `MCP` | AI Tool | 让 Codex 把编码任务委派给 OpenCode 的 MCP 桥接服务。 | - |
 | 66 | [oh-my-readme](https://github.com/XiNian-dada/oh-my-readme) | `Python`, `Skill` | AI Skill | 先核对项目事实再写 README 的 Agent Skill。 | - |
