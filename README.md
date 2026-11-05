@@ -1,6 +1,6 @@
 # GitHub 100 Libraries Challenge
 
-![Progress](https://img.shields.io/badge/Progress-63%2F100-orange?style=for-the-badge&logo=github)
+![Progress](https://img.shields.io/badge/Progress-66%2F100-orange?style=for-the-badge&logo=github)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
 
 ## 挑战目标 (The Goal)
@@ -27,8 +27,8 @@
 | 41 | [SlimGPT](https://github.com/XiNian-dada/SlimGPT) | `JavaScript` | Plugin | GPT 对话体验优化扩展。 | - |
 | 42 | [rcrontab](https://github.com/XiNian-dada/rcrontab) | `Rust` | Tool | 基于 Rust 的支持 Webhook 与 SMTP 的定时任务系统。 | - |
 | 45 | [Tictactoe-L432K](https://github.com/XiNian-dada/Tictactoe-L432K) | `C++`, `Mbed` | Embedded | 基于意法 STM32 L432KC 的井字棋游戏。 | - |
-| 46 | [Fuck_My_Shit_Mountain](https://github.com/XiNian-dada/Fuck_My_Shit_Mountain) | `Prompt`, `HTML`, `Skill` | AI Skill | 证据驱动的 AI 代码审计技能与报告模板（499 Stars）。 | - |
-| 47 | [NodeLite](https://github.com/XiNian-dada/NodeLite) | `Rust`, `WebSocket`, `SQLite` | Monitoring | 极轻量级高性能服务器集群监控面板与 Agent 系统（59 Stars）。 | - |
+| 46 | [Fuck_My_Shit_Mountain](https://github.com/XiNian-dada/Fuck_My_Shit_Mountain) | `Prompt`, `HTML`, `Skill` | AI Skill | 证据驱动的 AI 代码审计技能与报告模板（505 Stars）。 | - |
+| 47 | [NodeLite](https://github.com/XiNian-dada/NodeLite) | `Rust`, `WebSocket`, `SQLite` | Monitoring | 极轻量级高性能服务器集群监控面板与 Agent 系统（61 Stars）。 | - |
 | 48 | [PPTskills](https://github.com/XiNian-dada/PPTskills) | `Playwright`, `PPTX`, `Schema JSON` | AI Skill | 面向 Codex 的可编辑 PPTX 生成 Skill。 | - |
 | 49 | [SmartSync](https://github.com/XiNian-dada/SmartSync) | `Sync`, `Tooling` | Tool | 智能同步工具。 | - |
 | 50 | [XzBot](https://github.com/XiNian-dada/XzBot) | `Rust`, `Tokio`, `Axum`, `OneBot` | Bot | 支持多 LLM 后端与工具调用的 QQ 聊天机器人。 | - |
@@ -39,8 +39,10 @@
 | 59 | [FireFly-RK3399-Housing-Model](https://github.com/XiNian-dada/FireFly-RK3399-Housing-Model) | `3D CAD`, `STL` | Hardware | 萤火虫 RK3399PLUS 嵌入式开发板定制 3D 打印外壳模型。 | - |
 | 60 | [WG-Tunnel-Manager](https://github.com/XiNian-dada/WG-Tunnel-Manager) | `Bash`, `WireGuard` | Tool | 基于 TUI 的 WireGuard TCP 隧道配置与管理工具。 | - |
 | 61 | [luci-app-wloc](https://github.com/XiNian-dada/luci-app-wloc) | `Go`, `OpenWrt`, `LuCI`, `nftables` | Embedded | OpenWrt 固件 WLOC 定位重写插件（支持 Wi-Fi Calling）。 | - |
-| 62 | [VanishMe](https://github.com/XiNian-dada/VanishMe) | `TypeScript`, `Canvas`, `WebGL` | Extension | 浏览器指纹伪装与隐私防护扩展（92 Stars）。 | - |
+| 62 | [VanishMe](https://github.com/XiNian-dada/VanishMe) | `TypeScript`, `Canvas`, `WebGL` | Extension | 浏览器指纹伪装与隐私防护扩展（110 Stars）。 | - |
 | 63 | [WingmanKVM](https://github.com/XiNian-dada/WingmanKVM) | `Rust`, `V4L2`, `USB-Gadget`, `GPIO` | Embedded | 软硬协同网页 KVM：HDMI 采集卡、USB OTG 键鼠模拟与电源控制。 | - |
+| 65 | [OpenCodeBridge](https://github.com/XiNian-dada/OpenCodeBridge) | `TypeScript`, `MCP` | AI Tool | 让 Codex 把编码任务委派给 OpenCode 的 MCP 桥接服务。 | - |
+| 66 | [oh-my-readme](https://github.com/XiNian-dada/oh-my-readme) | `Python`, `Skill` | AI Skill | 先核对项目事实再写 README 的 Agent Skill。 | - |
 
 ### Java & Spigot Ecosystem
 *服务端插件开发、性能优化与高并发处理。*
@@ -97,13 +99,14 @@
 | 43 | [Vditor4Typecho](https://github.com/XiNian-dada/Vditor4Typecho) | `Vditor` | Typecho | 基于 Vditor 的 Markdown 编辑器。 | - |
 | 52 | [ChaoxingSucker](https://github.com/XiNian-dada/ChaoxingSucker) | `Chrome API`, `Canvas`, `OpenAI API` | Extension | 超星截图区域捕获与 AI 解题浏览器扩展。 | Private |
 | 56 | [XDownloader](https://github.com/XiNian-dada/XDownloader) | `JavaScript`, `Chrome Extension` | Extension | 网页版 X（Twitter）原生视频下载扩展。 | - |
+| 64 | [word-sea](https://github.com/XiNian-dada/word-sea) | `PHP`, `JavaScript`, `CSS` | Theme | Typecho 主题（字海），文字海洋动态效果。 | - |
 
 ---
 
 ## 进度概览
-- [ ] 嵌入式、系统与现代工具 (25/30)
+- [ ] 嵌入式、系统与现代工具 (27/30)
 - [ ] Java/Spigot (19/35)
-- [ ] PHP/Web (14/15)
+- [x] PHP/Web (15/15)
 - [ ] Python/Scripts (5/20)
 
-**总体进度：63 / 100**
+**总体进度：66 / 100**
